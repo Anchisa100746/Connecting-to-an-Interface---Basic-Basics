@@ -183,7 +183,9 @@ void loop() {
 
 ### จบการทดลอง
 
+เพิ่มเติม เอาไว้ศึกษาเพิ่มเติม
 
+     https://iot-kmutnb.github.io/blogs/sensors/hc-sr04/
 
 
 
