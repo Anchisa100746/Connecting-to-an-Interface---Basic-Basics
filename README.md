@@ -32,12 +32,24 @@
          4.สาย Echo ของเซ็นเซอร์ต่อเข้ากับ GPIO 05                             
 
 
+2.ให้นักเรียนดาวน์โหลด หรือเปิด โปรแกรม  Arduino IDE
+
+   ลิ้งค์ดาวน์โหล  https://www.arduino.cc/en/software
+
+
+![image](https://github.com/user-attachments/assets/c777cbb3-3680-4bf5-837e-a6f647c02110)
 
 
 
+หลังการติดตั้ง
 
+1.เปิดโปรแกรม Arduino IDE ขึ้นมา
 
+2.ตรวจสอบว่าได้เลือกบอร์ดที่ถูกต้อง (เช่น Arduino Uno, ESP32, เป็นต้น) โดยไปที่ Tools > Board และเลือกบอร์ดที่ใช้
 
+3.เลือกพอร์ตที่เชื่อมต่อกับบอร์ดใน Tools > Port
+
+![image](https://github.com/user-attachments/assets/533ca3ce-eccb-4495-8077-fbc00aeb0c4d)
 
 
 
