@@ -23,6 +23,7 @@
 1.	ให้นักเรียนต่อเชื่อมกับอุปกรณ์ตามภาพ ดังนี้
 
 
+![image](https://github.com/user-attachments/assets/332bffac-0215-447c-a34f-54e6b264faf9)
 
 
 
