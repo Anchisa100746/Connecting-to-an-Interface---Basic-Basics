@@ -134,26 +134,54 @@ void loop() {
 }
 ``` 
 
+11.กด 
+
+![image](https://github.com/user-attachments/assets/990109bd-65e0-46b3-bb81-f3bee5e4780c)
+
+12. กดปุ่ม BOOT บนบอร์ด  ค้างไว้
+
+![image](https://github.com/user-attachments/assets/78ab72b7-710a-4e0c-b9e8-94d7d0d81db2)
+
+13. กด Serial Monitor 
+
+![image](https://github.com/user-attachments/assets/e0dced5f-063e-4aa1-ba85-f9fca858e7ec)
+
+![image](https://github.com/user-attachments/assets/765f5de5-85e6-47cc-acf0-674a735815c9)
 
 
+14.ผลลัพน์
+
+![image](https://github.com/user-attachments/assets/04d006b2-3d8b-4827-8f75-f0d783bdfeb0)
+
+15.วัดวัตถุที่อยู่ใกล้ตัวมากที่สุด กำหนดเป็นอะไรก็ได้ โดยมีเงื่อนไข ว่าจะต้องเป็นสิ่งของ 3 ชนิดที่ใช้วัด ดังนี้
+
+      1.วัดวัตถุที่อยู่ห่างกันมาก กับเซ็นเซอร์ 
+      2.วัดวัตถุที่อยู่ห่างจากเซ็นเซอร์ในลักษณะ ปานกลาง 
+      3.วัตถุที่อยู่ชิดกับเซ็นเซอร์ ในลักษณะประชิดมากที่สุด 
+      
+เขียนข้อมูลลงในใบงาน
+
+16. แก้ไขโค้ดและใส่โค้ด หรือเขียนโค้ดนี้ลง
+
+![image](https://github.com/user-attachments/assets/d10fe02a-64ab-4c4d-b3e0-2ab95bdfb208)
+
+17.ผลลัพน์
+
+![image](https://github.com/user-attachments/assets/88bf1f31-bab8-4933-aaac-d8da8535071d)
 
 
+18.ทำการวัดวัตถุตามใบงาน ในข้อที่  4
+
+วัดวัตถุ ชนิดเดียว โดยทำตามเงื่อนไขดังนี้
+
+          41.ทำให้วัตถุอยู่ใกล้   
+          4.2 ทำให้วัตถุอยู่ลักษณะปานกลาง   
+          4.3 ทำให้วัตถุอยู่ไกล
+          
+19. สรุปผลการทดลอง 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### จบการทดลอง
 
 
 
