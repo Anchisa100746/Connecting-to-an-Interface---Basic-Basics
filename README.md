@@ -81,8 +81,10 @@ https://www.ab.in.th/article/   หรือพิมคำว่า  ดาว�
     2.ในช่อง Additional Board Manager URLs ให้ใส่ URL ต่อไปนี้:
        สำหรับ ESP32:
 
+       ``` cpp
+
           https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
-          
+       ``` 
      3.คลิก OK
 
     4.ไปที่ Tools > Board > Board Manager แล้วค้นหา ESP32 
