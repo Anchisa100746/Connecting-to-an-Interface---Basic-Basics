@@ -49,10 +49,7 @@
 
 3.เลือกพอร์ตที่เชื่อมต่อกับบอร์ดใน Tools > Port
 
-![image](https://github.com/user-attachments/assets/533ca3ce-eccb-4495-8077-fbc00aeb0c4d)
-
-
-
+![image](https://github.com/user-attachments/assets/67a91061-51a7-400c-b2d0-c8f6ab3aee91)
 
 
 
