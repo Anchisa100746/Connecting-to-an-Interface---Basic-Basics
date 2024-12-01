@@ -165,6 +165,42 @@ void loop() {
 
 ![image](https://github.com/user-attachments/assets/d10fe02a-64ab-4c4d-b3e0-2ab95bdfb208)
 
+``` cpp
+#define TRIG_PIN 4
+#define ECHO_PIN 5
+
+void setup() {
+  Serial.begin(115200);
+  pinMode(TRIG_PIN, OUTPUT);
+  pinMode(ECHO_PIN, INPUT);
+}
+
+void loop() {
+  digitalWrite(TRIG_PIN, LOW);
+  delayMicroseconds(2);
+  digitalWrite(TRIG_PIN, HIGH);
+  delayMicroseconds(10);
+  digitalWrite(TRIG_PIN, LOW);
+
+  long duration = pulseIn(ECHO_PIN, HIGH);
+  float distance = (duration * 0.034) / 2;
+
+  Serial.print("ระยะ: ");
+  Serial.print(distance);
+  Serial.println(" ซม.");
+
+  // แสดงข้อความตามระยะห่าง
+  if (distance < 10) {
+    Serial.println("วัตถุใกล้!");
+  } else if (distance >= 10 && distance <= 30) {
+    Serial.println("วัตถุปานกลาง!");
+  } else {
+    Serial.println("วัตถุไกล!");
+  }
+  delay(1000);
+}
+``` 
+
 17.ผลลัพน์
 
 ![image](https://github.com/user-attachments/assets/88bf1f31-bab8-4933-aaac-d8da8535071d)
